@@ -19,6 +19,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
+| Build [![Build Status](https://dev.azure.com/uditmalhotra/DemoProject/_apis/build/status/umalhotra86.amplifyapp?branchName=master)](https://dev.azure.com/uditmalhotra/DemoProject/_build/latest?definitionId=1&branchName=master)
+
 Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
